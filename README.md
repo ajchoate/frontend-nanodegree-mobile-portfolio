@@ -1,6 +1,6 @@
 ## Website Performance Optimization portfolio project
 
-In this repository, you will find the original source files for the Website Optimization project, as well as the optimized code, which can be found in the `dist` folder. Please use only the files in the `dist` folder to evaluate the project.
+In this repository, you will find the original source files for the Website Optimization project, as well as the optimized code, which can be found in the `dist` folder. **Please use only the files in the `dist` folder to evaluate the project.**
 
 Additionally, a live version of the site can be found [here](http://www.achateauenrose.com/udprojsit/) for your (and [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=achateauenrose.com%2Fudprojsit&tab=desktop)') convenience.
 
