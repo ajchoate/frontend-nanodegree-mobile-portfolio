@@ -526,7 +526,11 @@ function logAverageFrame(times) {   // times is the array of User Timing measure
 
 // document.body.scrollTop is no longer supported in Chrome.
 // Moved .scrollTop out of updatePositions() function so calculation is only done once per scroll.
+
+// Information and assistance for requestAnimationFrame(), requestTick(), and onScroll() were found at:
+// https://www.html5rocks.com/en/tutorials/speed/animations/
 // The ticking variable will help to keep rAF from calling repeatedly if it has already been initiatied on a scroll.
+
 var lastKnownScrollTop = 0;
 var ticking = false;
 
